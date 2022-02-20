@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @muaxxuan
-- 👀 I’m interested in DATA SCIENCE
+- 👀 I’m interested in DATA SCIENCE & ANALYTICS
 - 🌱 I’m currently learning R and Python
 - 💞️ I’m looking to collaborate on stimulating projects
 - 📫 How to reach me muaxxuan@gmail.com
